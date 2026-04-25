@@ -22,7 +22,7 @@
   <a href="https://github.com/Effeilo/browserux">
     <img src="./assets/browserux.png" alt="BrowserUX logo"/>
   </a>
-  <a href="https://github.com/Effeilo/browserux">
+  <a href="https://github.com/Effeilo/claude-code-frontend-skills">
     <img src="./assets/skills.png" alt="Code Claude Frontend Skills logo"/>
   </a>
 </div>
