@@ -2,6 +2,19 @@
   <img src="./assets/hero.png" alt="Hero"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Effeilo/browserux">
+    <img src="./assets/browserux.png" alt="BrowserUX logo"/>
+  </a>
+  <a href="https://github.com/Effeilo/claude-code-frontend-skills">
+    <img src="./assets/skills.png" alt="Code Claude Frontend Skills logo"/>
+  </a>
+</div>
+
+<br/>
+
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
@@ -14,15 +27,6 @@
     <img src="https://img.shields.io/badge/Claude_Code-d97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
     <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logoColor=white" alt="Codex"/>
   </p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Effeilo/browserux">
-    <img src="./assets/browserux.png" alt="BrowserUX logo"/>
-  </a>
-  <a href="https://github.com/Effeilo/claude-code-frontend-skills">
-    <img src="./assets/skills.png" alt="Code Claude Frontend Skills logo"/>
-  </a>
 </div>
 
 <!--
