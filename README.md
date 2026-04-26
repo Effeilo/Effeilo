@@ -16,8 +16,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <a href="https://github.com/Effeilo/browserux">
     <img src="./assets/browserux.png" alt="BrowserUX logo"/>
