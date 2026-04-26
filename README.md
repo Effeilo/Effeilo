@@ -2,7 +2,6 @@
   <img src="./assets/hero.png" alt="Hero"/>
 </div>
 
-<br/>
 
 <div align="center">
   <a href="https://github.com/Effeilo/browserux">
